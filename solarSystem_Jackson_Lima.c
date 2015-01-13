@@ -26,6 +26,7 @@ void placeBackground() {
     glTranslatef(0.0f,0.0f,-6.0f);
     glColor3f( 0.89, 0.93, 0.95 );
 
+    // 100 Estrelas
     glBegin(GL_POINTS);
       glVertex2f(-23, -23);
       glVertex2f(8,	8);
